@@ -25,7 +25,7 @@ import psycopg2
 import pymongo
 from googleapiclient.discovery import build
 
-7.Run the code in Visual Studio Code. If executed successfully, your project is ready to use.
+7.Run the code in Visual Studio  using in cmd prompt type code streamlit run youtube.py. If executed successfully, your project is ready to use.
 
 
 
